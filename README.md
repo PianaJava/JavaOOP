@@ -46,3 +46,6 @@ values when they are passed into methods that change the values</br>
 
 <b> ✓ Working with Selected classes from the Java API</b></br>
 Write a simple Lambda expression that consumes a Lambda Predicate expression
+
+<b>✓ Working with Inheritance</b></br>
+Describe inheritance and its benefits // Develop code that demonstrates the use of polymorphism; including overriding and object type versus reference type // Determine when casting is necessary // Use super and this to access objects and constructors // Use abstract classes and interfaces
