@@ -14,4 +14,6 @@ Here I've aquired the knowledge of:</br>
 //*******Abstract Classes</br>
 
 
-# JavaOOP1
+# provaOCAn, n 1 -> 
+This is a package created for working with: </br>
+1) Static method and instance methods
