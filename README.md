@@ -40,3 +40,8 @@ Declare, instantiate, initialize and use a one-dimensional array // Declare, ins
 <b>✓ Working with Java Data Types</b></br>
 Develop code that uses wrapper classes such as Boolean, Double, and Integer.
 
+<b>✓ Working with Methods and Encapsulation</b></br>
+Create methods with arguments and return values; including overloaded methods // Apply the static keyword to methods and fields // Create and overload constructors; include impact on default constructors // Apply access modifiers // Apply encapsulation principles to a class // Determine the effect upon object references and primitive
+values when they are passed into methods that change the values
+<b>✓ Working with Selected classes from the Java API</b></br>
+Write a simple Lambda expression that consumes a Lambda Predicate expression
