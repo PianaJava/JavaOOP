@@ -28,4 +28,15 @@ Use Java operators; including parentheses to override operator precedence // Cre
 <b>✓ Using Loop Constructs </b></br>
 Create and use while loops // Create and use for loops including the enhanced for loop // Create and use do/while loops // Compare loop constructs // Use break and continue</br>
 
+<b>✓ Using Operators and Decision Constructs</b></br>
+Test equality between Strings and other objects using == and equals() </br>
+
+<b>✓ Creating and Using Arrays</b></br>
+Declare, instantiate, initialize and use a one-dimensional array // Declare, instantiate, initialize and use a multi-dimensional array
+
+<b>✓ Working with Selected classes from the Java API</b></br>
+// Creating and manipulating Strings // Manipulate data using the StringBuilder class and its methods // Declare and use an ArrayList of a given type // Create and manipulate calendar data using classes from java.time.LocalDateTime, java.time.LocalDate, java.time.Local-Time, java.time.format.DateTimeFormatter, java.time.Period
+
+<b>✓ Working with Java Data Types</b></br>
+Develop code that uses wrapper classes such as Boolean, Double, and Integer.
 
