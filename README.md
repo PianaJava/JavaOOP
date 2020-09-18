@@ -1,19 +1,3 @@
-# JavaOOP
-The OOP javaOOP.zip is an archive which contains a code developed in Eclipse following this online course:</br>
-https://www.youtube.com/channel/UC5_j0dmvXE0xs6ra-clGz4A</br>
-I highly recommend the course (for Italian speakers). </br>
-
-Here I've aquired the knowledge of:</br>
-
-//*******Classes/Objects</br>
-//*******Packages</br>
-//*******Getter and Setter</br> 
-//*******Constructors/methods</br>
-//*******Finals/static statements</br>
-//*******Inheritance, private/protected instances</br>
-//*******Abstract Classes</br>
-
-
 # Preparation for OCA exam. Deadline within 2020. From 1Z0-808 Note
 
 <b>✓Java Basics </b></br>
@@ -52,3 +36,19 @@ Describe inheritance and its benefits // Develop code that demonstrates the use 
 
 <b>✓ Handling Exceptions</b></br>
 Differentiate among checked exceptions, unchecked exceptions and Errors // Create a try-catch block and determine how exceptions alter normal program flow // Describe the advantages of Exception handling // Create and invoke a method that throws an exception // Recognize common exception classes (such as NullPointerException, ArithmeticException, ArrayIndexOutOfBoundsException, ClassCastException)
+
+
+# JavaOOP
+The OOP javaOOP.zip is an archive which contains a code developed in Eclipse following this online course:</br>
+https://www.youtube.com/channel/UC5_j0dmvXE0xs6ra-clGz4A</br>
+I highly recommend the course (for Italian speakers). </br>
+
+Here I've aquired the knowledge of:</br>
+
+//*******Classes/Objects</br>
+//*******Packages</br>
+//*******Getter and Setter</br> 
+//*******Constructors/methods</br>
+//*******Finals/static statements</br>
+//*******Inheritance, private/protected instances</br>
+//*******Abstract Classes</br>
