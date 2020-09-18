@@ -20,10 +20,10 @@ Here I've aquired the knowledge of:</br>
 Define the scope of variables // Define the structure of a Java class // Create executable Java applications with a main method; run a Java program from the command line; including console output //Import other Java packages to make them accessible in your code // Compare and contrast the features and components of Java such as platform independence, object orientation, encapsulation, etc.  </br>
 
 <b> ✓ Working with Java Data Types  </b></br>
-Declare and initialize variables (including casting or primitive types) // Differentiate between object reference variables and primitive variables // Know how to read or write to object fields // Explain an Object’s Lifecycle (creation, “dereference reassignment” and garbage collection 
+Declare and initialize variables (including casting or primitive types) // Differentiate between object reference variables and primitive variables // Know how to read or write to object fields // Explain an Object’s Lifecycle (creation, “dereference reassignment” and garbage collection </br>
 
 <b> ✓ Using Operators and Decision Constructs </b> </br>
-Use Java operators; including parentheses to override operator precedence // Create if and if/else and ternary constructs // Use a switch statement //
+Use Java operators; including parentheses to override operator precedence // Create if and if/else and ternary constructs // Use a switch statement </br>
 
 <b>✓ Using Loop Constructs </b></br>
 Create and use while loops // Create and use for loops including the enhanced for loop // Create and use do/while loops // Compare loop constructs // Use break and continue</br>
@@ -32,10 +32,10 @@ Create and use while loops // Create and use for loops including the enhanced fo
 Test equality between Strings and other objects using == and equals() </br>
 
 <b>✓ Creating and Using Arrays</b></br>
-Declare, instantiate, initialize and use a one-dimensional array // Declare, instantiate, initialize and use a multi-dimensional array
+Declare, instantiate, initialize and use a one-dimensional array // Declare, instantiate, initialize and use a multi-dimensional array</br>
 
 <b>✓ Working with Selected classes from the Java API</b></br>
-// Creating and manipulating Strings // Manipulate data using the StringBuilder class and its methods // Declare and use an ArrayList of a given type // Create and manipulate calendar data using classes from java.time.LocalDateTime, java.time.LocalDate, java.time.Local-Time, java.time.format.DateTimeFormatter, java.time.Period
+// Creating and manipulating Strings // Manipulate data using the StringBuilder class and its methods // Declare and use an ArrayList of a given type // Create and manipulate calendar data using classes from java.time.LocalDateTime, java.time.LocalDate, java.time.Local-Time, java.time.format.DateTimeFormatter, java.time.Period</br>
 
 <b>✓ Working with Java Data Types</b></br>
 Develop code that uses wrapper classes such as Boolean, Double, and Integer.
@@ -45,7 +45,10 @@ Create methods with arguments and return values; including overloaded methods //
 values when they are passed into methods that change the values</br>
 
 <b> ✓ Working with Selected classes from the Java API</b></br>
-Write a simple Lambda expression that consumes a Lambda Predicate expression
+Write a simple Lambda expression that consumes a Lambda Predicate expression</br>
 
 <b>✓ Working with Inheritance</b></br>
-Describe inheritance and its benefits // Develop code that demonstrates the use of polymorphism; including overriding and object type versus reference type // Determine when casting is necessary // Use super and this to access objects and constructors // Use abstract classes and interfaces
+Describe inheritance and its benefits // Develop code that demonstrates the use of polymorphism; including overriding and object type versus reference type // Determine when casting is necessary // Use super and this to access objects and constructors // Use abstract classes and interfaces</br>
+
+<b>✓ Handling Exceptions</b></br>
+Differentiate among checked exceptions, unchecked exceptions and Errors // Create a try-catch block and determine how exceptions alter normal program flow // Describe the advantages of Exception handling // Create and invoke a method that throws an exception // Recognize common exception classes (such as NullPointerException, ArithmeticException, ArrayIndexOutOfBoundsException, ClassCastException)
