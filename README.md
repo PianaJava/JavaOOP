@@ -1,4 +1,5 @@
-# Preparation for OCA exam. Deadline within 2020. From 1Z0-808 Note
+# Preparation for OCA exam. Deadline within 2020. </br>
+Resorces from OCA: Oracle Certified Associate Java,SE 8 Programmer, Study Guide, Exam 1Z0-808
 
 <b>✓Java Basics </b></br>
 Define the scope of variables // Define the structure of a Java class // Create executable Java applications with a main method; run a Java program from the command line; including console output //Import other Java packages to make them accessible in your code // Compare and contrast the features and components of Java such as platform independence, object orientation, encapsulation, etc.  </br>
