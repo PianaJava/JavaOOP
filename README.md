@@ -1,4 +1,4 @@
-# Preparation for OCA exam. Deadline within 2021/Q1. </br>
+# Preparation for OCA exam </br>
 Resorces from OCA: Oracle Certified Associate Java,SE 8 Programmer, Study Guide, Exam 1Z0-808
 
 <b>✓Java Basics </b></br>
